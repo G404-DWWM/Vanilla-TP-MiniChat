@@ -37,9 +37,9 @@ Pour ce faire, vous allez dans un premier temps imaginer la structure de votre a
 * Et enfin très important : la liste des tâches : vous devez établir la liste finale et définitive pour accomplir le projet en 4 jours
   
 ⚠️ Obligatoire avant de passer à la deuxième étape : 
- - Créer le schéma de la base de donnée avec **Draw SQL** 
- - Créer votre gestion de projet avec **Trello**
- - Créer une maquette graphique de votre application avec **Figma** ou **Whimsical** 
+ - Créer le schéma de la base de donnée avec [**Draw SQL**](https://drawsql.app/)
+ - Créer votre gestion de projet avec [**Trello**](https://trello.com/fr)
+ - Créer une maquette graphique de votre application avec [**Figma**](https://www.figma.com/fr/) ou [**Whimsical**](https://whimsical.com/) 
 
 ## **2️⃣ Deuxième étape : Structuration**
 
