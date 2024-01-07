@@ -39,7 +39,7 @@ Pour ce faire, vous allez dans un premier temps imaginer la structure de votre a
 ⚠️ Obligatoire avant de passer à la deuxième étape : 
  - Créer le schéma de la base de donnée avec **Draw SQL** 
  - Créer votre gestion de projet avec **Trello**
- - Créer une maquette visuel de votre application avec **Figma** ou **Whimsical** 
+ - Créer une maquette graphique de votre application avec **Figma** ou **Whimsical** 
 
 ## **2️⃣ Deuxième étape : Structuration**
 
