@@ -21,9 +21,6 @@ Vous devez donc vérifier si le pseudo existe déjà ou pas à chaque publicatio
 * ⚠️ **À partir de maintenant, l'intégralité du code doit être en anglais ! Cela comprend aussi les variables, les classes CSS, et même les tables de données SQL**
 
 
-# 
-
-
 # Première partie
 
 
@@ -40,7 +37,7 @@ Pour ce faire, vous allez dans un premier temps imaginer la structure de votre a
 * Et enfin très important : la liste des tâches : vous devez établir la liste finale et définitive pour accomplir le projet en 4 jours
   
 ⚠️ Obligatoire avant de passer à la deuxième étape : 
- - Créer les schéma de la base de donnée avec **Draw SQL** 
+ - Créer le schéma de la base de donnée avec **Draw SQL** 
  - Créer votre gestion de projet avec **Trello**
  - Créer une maquette visuel de votre application avec **Figma** ou **Whimsical** 
 
