@@ -87,6 +87,7 @@ Remplacer "TextePrérempli" par le pseudo du visiteur une fois celui-ci enregist
 
 * Actuellement, vous êtes obligé de rafraîchir la page pour voir les nouveaux messages
 * Créer un script JavaScript qui rafraîchit automatiquement la boîte de dialogue avec une requête ajax asynchrone !
+   * [Les requêtes AJAX](https://apical.xyz/fiches/les_requetes_ajax/qu_est-ce_que_ajax)
    * [Requête Ajax avec fetch](https://apical.xyz/fiches/les_requetes_ajax/appel_ajax_avec_fetch)
 * Faire en sorte que l'envoi de message ne provoque pas un rechargement de la page, encore avec une requête asynchrone
 * Méthode JS fetch() : 
