@@ -2,14 +2,9 @@
 
 # TP Mini Chat
 
-
-
-
-
 # Bienvenue dans cet exercice pratique qui mettra en application ce que vous avez vu ces derniers jours.
 
 Vous allez créer un mini chat dont les spécifications sont les suivantes :
-
 
 
 * Le chat est une application qui contient une seule page, avec une grande fenêtre qui contient les messages de tout le monde, et en dessous une barre horizontale contenant le formulaire d'envoi d'un nouveau message
@@ -42,38 +37,37 @@ Pour ce faire, vous allez dans un premier temps imaginer la structure de votre a
 * Structure de la BDD : combien de colonnes ? quel nom ?
 * Combien de pages HTML, CSS, JS et PHP allons-nous avoir besoin ?
 * Quel nom vont avoir ces fichiers ?
-* Et enfin très important : la liste des tâches : vous devez établir la liste finale et définitive pour accomplir le projet en 3 jours.
-
+* Et enfin très important : la liste des tâches : vous devez établir la liste finale et définitive pour accomplir le projet en 4 jours
+  
+⚠️ Obligatoire avant de passer à la deuxième étape : 
+ - Créer les schéma de la base de donnée avec **Draw SQL** 
+ - Créer votre gestion de projet avec **Trello**
+ - Créer une maquette visuel de votre application avec **Figma** ou **Whimsical** 
 
 ## **2️⃣ Deuxième étape : Structuration**
 
 Maintenant que vous avez pensé votre application, préparez les fondations.
 
-
-
-* Créer tous les fichiers et leurs dossiers
-* relier les fichiers entre eux
+* Créer tous les fichiers et leurs dossiers (pensez à garder une architecture clair comme avec le TP Hospital)
+* Relier les fichiers entre eux
 * Créer le formulaire d'envoi de message
-* Créer la BDD
-* établir la connexion avec la BDD
+* Créer la BDD sur PHPMyAdmin
+* Etablir la connexion avec la BDD
 
 
 ## **3️⃣ Troisième étape : Exécution**
 
 Tout est prêt pour écrire le code du cœur de l'application !
 
-
-
-* Configurer la méthode et le chemin du formulaire
-* préparer l'insertion des données du formulaire en SQL
-* exécuté l'enregistrement de la requête SQL
-* récupérer les messages
-* afficher les messages sur la page index
+* Configurer les méthodes et les chemins des formulaires
+* **Préparer** l'insertion des données du formulaire en SQL
+* **Exécuté** l'enregistrement de la requête SQL
+* Récupérer les messages
+* Afficher les messages sur la page index
 * Toutes les autres tâches secondaires 
 
 
 # Deuxième partie
-
 
 ## **🍪 Utiliser les cookies**
 
@@ -103,14 +97,12 @@ Remplacer "TextePrérempli" par le pseudo du visiteur une fois celui-ci enregist
 ## **🌈 Changer la couleur des pseudos**
 
 
-
 * Associer une couleur unique à chaque nom d'utilisateur
     * Vous pouvez utiliser ce repository[ https://github.com/mistic100/RandomColor.php](https://github.com/mistic100/RandomColor.php)​
 * Vous devez avoir une colonne appropriée dans votre table pour gérer cette fonctionnalité.
 
 
 # **Liste des tâches compilées à partir de toutes les consignes :**
-
 
 
 * Intégrer le code HTML permettant d'avoir toutes les zones (liste des messages, liste des utilisateurs, barre pour envoyer un message)
@@ -126,9 +118,7 @@ Remplacer "TextePrérempli" par le pseudo du visiteur une fois celui-ci enregist
 * Installer une librairie pour associer une couleur à chaque création d'utilisateur
 
 
-#  
- 
-👨‍💻 Bonus : Ajouter une page d'authentification
+# 👨‍💻 Bonus : Ajouter une page d'authentification
 
 
 
