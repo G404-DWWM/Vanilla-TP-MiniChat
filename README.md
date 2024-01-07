@@ -6,7 +6,6 @@
 
 Vous allez créer un mini chat dont les spécifications sont les suivantes :
 
-
 * Le chat est une application qui contient une seule page, avec une grande fenêtre qui contient les messages de tout le monde, et en dessous une barre horizontale contenant le formulaire d'envoi d'un nouveau message
 * Il y a également une fenêtre verticale à droite qui affiche la liste des utilisateurs
 * Chaque pseudo est unique. Cela signifie que je peux poster plusieurs messages avec le même pseudo, mais en base de données, il ne doit exister qu'un seul utilisateur par pseudo. 
@@ -28,8 +27,6 @@ Vous devez donc vérifier si le pseudo existe déjà ou pas à chaque publicatio
 
 Pour ce faire, vous allez dans un premier temps imaginer la structure de votre application.
 
-
-
 * Structure de la BDD : combien de tables ? quel nom ?
 * Structure de la BDD : combien de colonnes ? quel nom ?
 * Combien de pages HTML, CSS, JS et PHP allons-nous avoir besoin ?
@@ -40,6 +37,7 @@ Pour ce faire, vous allez dans un premier temps imaginer la structure de votre a
  - Créer le schéma de la base de donnée avec [**Draw SQL**](https://drawsql.app/)
  - Créer votre gestion de projet avec [**Trello**](https://trello.com/fr)
  - Créer une maquette graphique de votre application avec [**Figma**](https://www.figma.com/fr/) ou [**Whimsical**](https://whimsical.com/) 
+
 
 ## **2️⃣ Deuxième étape : Structuration**
 
@@ -83,8 +81,6 @@ Remplacer "TextePrérempli" par le pseudo du visiteur une fois celui-ci enregist
 
 ## **❄️ Rafraîchir la boîte de dialogue**
 
-
-
 * Actuellement, vous êtes obligé de rafraîchir la page pour voir les nouveaux messages
 * Créer un script JavaScript qui rafraîchit automatiquement la boîte de dialogue avec une requête ajax asynchrone !
    * [Les requêtes AJAX](https://apical.xyz/fiches/les_requetes_ajax/qu_est-ce_que_ajax)
@@ -95,14 +91,12 @@ Remplacer "TextePrérempli" par le pseudo du visiteur une fois celui-ci enregist
 
 ## **🌈 Changer la couleur des pseudos**
 
-
 * Associer une couleur unique à chaque nom d'utilisateur
     * Vous pouvez utiliser ce repository[ https://github.com/mistic100/RandomColor.php](https://github.com/mistic100/RandomColor.php)​
 * Vous devez avoir une colonne appropriée dans votre table pour gérer cette fonctionnalité.
 
 
 # **Liste des tâches compilées à partir de toutes les consignes :**
-
 
 * Intégrer le code HTML permettant d'avoir toutes les zones (liste des messages, liste des utilisateurs, barre pour envoyer un message)
 * Intégrer le code HTML du formulaire permettant l'envoi du message
@@ -119,8 +113,6 @@ Remplacer "TextePrérempli" par le pseudo du visiteur une fois celui-ci enregist
 
 # 👨‍💻 Bonus : Ajouter une page d'authentification
 
-
-
-* un visiteur peut s'enregistrer et créer un compte avec un mot de passe
-* un utilisateur enregistré peut se connecter à son compte
-* la page du chat n'est pas accessible aux visiteurs non enregistrés
+* Un visiteur peut s'enregistrer et créer un compte avec un mot de passe
+* Un utilisateur enregistré peut se connecter à son compte
+* La page du chat n'est pas accessible aux visiteurs non enregistrés
