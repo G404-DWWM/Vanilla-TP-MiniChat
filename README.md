@@ -23,7 +23,7 @@ Vous devez donc vérifier si le pseudo existe déjà ou pas à chaque publicatio
 * Tous les messages affichés sont préfixés de la date (avec secondes).
 * En tant qu'utilisateur, je peux écrire un message dans le chat en saisissant simplement mon pseudo et mon message
 * En tant qu'utilisateur, je vois les messages de tout le monde.
-* ⚠️ À partir de maintenant, l'intégralité du code doit être en anglais ! Cela comprend aussi les variables, les classes CSS, et même les tables de données SQL
+* ⚠️ **À partir de maintenant, l'intégralité du code doit être en anglais ! Cela comprend aussi les variables, les classes CSS, et même les tables de données SQL**
 
 
 # 
